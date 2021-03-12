@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ticketing</string>
+
+    <string name="cents">%1$d ¢</string>
+
+    <string name="create">Create</string>
+
+    <string name="empty">Empty</string>
+
+    <string name="product_name">Product name</string>
+    <string name="product_price">Product price</string>
+
+    <string name="tickets">Tickets</string>
+</resources>
